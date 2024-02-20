@@ -1,16 +1,13 @@
-# travely
+# Travely
 
-A new Flutter project.
+# Overview
+This Flutter project is a Travel app with animations, built using the Dart programming language and Flutter framework.
 
-## Getting Started
+# Features
+1. Beautiful Animations
+2. Responsive Design
+3. User-Friendly Interface
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Screenshots
+![Google Pixel 4 XL Screenshot 6](https://github.com/elort/sajed-flutter/assets/137734510/1e6b8754-cce3-46e1-a6b2-d1fe9f792883)
+![Google Pixel 4 XL Screenshot 5](https://github.com/elort/sajed-flutter/assets/137734510/05dbf788-e765-4dbc-9467-703ff1b253cb)
